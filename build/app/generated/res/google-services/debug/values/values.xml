@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">884401487762-dc71s0rqbdp9het2emgecddjhd7ubkte.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">884401487762</string>
+    <string name="google_api_key" translatable="false">AIzaSyCj1oJwAa5jnamRM2M338HklnvLDGf3kO4</string>
+    <string name="google_app_id" translatable="false">1:884401487762:android:83ca2ccfd98ac532dccb4b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCj1oJwAa5jnamRM2M338HklnvLDGf3kO4</string>
+    <string name="google_storage_bucket" translatable="false">khalifa-bari.appspot.com</string>
+    <string name="project_id" translatable="false">khalifa-bari</string>
+</resources>

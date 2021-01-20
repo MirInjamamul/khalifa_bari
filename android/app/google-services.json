@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884401487762",
+    "project_id": "khalifa-bari",
+    "storage_bucket": "khalifa-bari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884401487762:android:83ca2ccfd98ac532dccb4b",
+        "android_client_info": {
+          "package_name": "com.example.khalifa_bari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884401487762-dc71s0rqbdp9het2emgecddjhd7ubkte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj1oJwAa5jnamRM2M338HklnvLDGf3kO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884401487762-dc71s0rqbdp9het2emgecddjhd7ubkte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

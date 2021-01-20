@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/root/AndroidStudioProjects/khalifa_bari/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "outputFile": "/home/injamul/Tutorial/projects/khalifa_bari/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
             "map": [
                 {
-                    "source": "/root/.gradle/caches/transforms-2/files-2.1/a528b13ac93e64cafa3d0480e2c93207/core-1.1.0/res/values-pt/values-pt.xml",
+                    "source": "/root/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/values-pt/values-pt.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
